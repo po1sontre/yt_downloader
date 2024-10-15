@@ -1,18 +1,19 @@
-🎥 YouTube Downloader
-A simple desktop app for downloading YouTube videos and audio, built with Python, Tkinter, and yt_dlp. It lets you choose video quality and format (MP4 or MP3), preview thumbnails, and track download progress.
+# 🎥 YouTube Downloader
 
-✨ Features
-📥 Download Videos or Audio: Supports MP4 and MP3 formats.
-📊 Select Quality: Fetch available quality options.
-🖼️ Thumbnail Preview: Displays the video thumbnail before downloading.
-📁 Set Download Location: Choose where to save downloaded files.
-⏳ Progress Bar: Monitor download progress in real-time.
-🛠️ Prerequisites
-Python 3.x installed
-Required libraries:
-bash
-Copy code
-pip install tkinter customtkinter yt-dlp pillow requests
+A simple desktop app for downloading YouTube videos and audio, built with Python, Tkinter, and `yt_dlp`. It lets you choose video quality and format (MP4 or MP3), preview thumbnails, and track download progress.
+
+## ✨ Features
+- 📥 **Download Videos or Audio**: Supports MP4 and MP3 formats.
+- 📊 **Select Quality**: Fetch available quality options.
+- 🖼️ **Thumbnail Preview**: Displays the video thumbnail before downloading.
+- 📁 **Set Download Location**: Choose where to save downloaded files.
+- ⏳ **Progress Bar**: Monitor download progress in real-time.
+
+## 🛠️ Prerequisites
+- **Python 3.x** installed
+- Required libraries:
+   ```bash
+   pip install tkinter customtkinter yt-dlp pillow requests
 🚀 How to Use
 Clone the Repository:
 bash
