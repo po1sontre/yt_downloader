@@ -27,7 +27,7 @@ Here’s your "How to Use" section formatted with markdown, making it easy to re
 
 2. **Run the App**: 
    ```bash
-   python your_script_name.py
+   python main.py
    ```
 
 3. **Enter YouTube URL**: Paste the video link in the input field.
@@ -40,7 +40,7 @@ Here’s your "How to Use" section formatted with markdown, making it easy to re
 
 7. **Start Download**: Click the Download button to begin the process.
 
-🎨 **Screenshots**: Add screenshots here to show the app in action!
+🎨 **Screenshots**: 
 
 👨‍💻 **Credits**: Created by po1sontre
 ```
