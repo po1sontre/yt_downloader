@@ -14,29 +14,33 @@ A simple desktop app for downloading YouTube videos and audio, built with Python
 - Required libraries:
    ```bash
    pip install tkinter customtkinter yt-dlp pillow requests
-🚀 How to Use.
+Here’s your "How to Use" section formatted with markdown, making it easy to read with line breaks:
 
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/po1sontre/yt_downloader.git
-cd yt_downloader
-Run the App:
-bash
-Copy code
-python your_script_name.py
-Enter YouTube URL:
-Paste the video link in the input field.
-Fetch Video Info:
-Click the Fetch Info button to get video details.
-Choose Quality and Format:
-Select from the available quality options and formats.
-Select Download Path:
-Pick a folder to save the file.
-Start Download:
-Click the Download button to begin the process.
-🎨 Screenshots
-Add screenshots here to show the app in action!
+```markdown
+## 🚀 How to Use
 
-👨‍💻 Credits
-Created by po1sontre
+1. **Clone the Repository**: 
+   ```bash
+   git clone https://github.com/po1sontre/yt_downloader.git
+   cd yt_downloader
+   ```
+
+2. **Run the App**: 
+   ```bash
+   python your_script_name.py
+   ```
+
+3. **Enter YouTube URL**: Paste the video link in the input field.
+
+4. **Fetch Video Info**: Click the Fetch Info button to get video details.
+
+5. **Choose Quality and Format**: Select from the available quality options and formats.
+
+6. **Select Download Path**: Pick a folder to save the file.
+
+7. **Start Download**: Click the Download button to begin the process.
+
+🎨 **Screenshots**: Add screenshots here to show the app in action!
+
+👨‍💻 **Credits**: Created by po1sontre
+```
