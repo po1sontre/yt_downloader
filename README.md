@@ -14,7 +14,8 @@ A simple desktop app for downloading YouTube videos and audio, built with Python
 - Required libraries:
    ```bash
    pip install tkinter customtkinter yt-dlp pillow requests
-🚀 How to Use
+🚀 How to Use.
+
 Clone the Repository:
 bash
 Copy code
